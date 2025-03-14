@@ -542,8 +542,7 @@
                           "filePath",
                           "fileType",
                           "fileChecksum",
-                          "fileSizeInBytes",
-                          "readLength"
+                          "fileSizeInBytes"
                         ],
                         "properties":{
                           "filePath":{
